@@ -1,0 +1,22 @@
+{
+  "name": "fes-berlin-clock",
+  "version": "1.0.0",
+  "description": "A Berlin Clock Code Kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriswaugh/fes-berlin-clock.git"
+  },
+  "author": "Chris Waugh <chris@electricsheep.ltd>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chriswaugh/fes-berlin-clock/issues"
+  },
+  "homepage": "https://github.com/chriswaugh/fes-berlin-clock#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
